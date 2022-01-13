@@ -12,5 +12,13 @@ layout: "post"
 published: true
 ---
 
+Ce package R propose d'interroger les webservices xtradata de Bordeaux Métropole. Ces webservices permettent d'interroger les couches de données présentes sur l'[open data de Bordeaux Métropole](https://opendata.bordeaux-metropole.fr/explore/dataset/met_package_r/information/), et également de réaliser des opérations mathématiques sur les données temps réelles historisées.
+
+En l'état seuls les services features et aggregate peuvent être interrogés via ce package.
+
+Davantage d'informations sur ces webservices sont disponibles ici : [webservices xtradata BM](http://data.bordeaux-metropole.fr/geojson/help/).
+
+L'utilisation des services (et par conséquent du package) nécessite de posséder une clé d'accès. [Demande de clé](https://data.bordeaux-metropole.fr/opendata/key).
+
 Notre package R pour télécharger les données est disponible sur le portail [open data de Bordeaux Métropole](https://opendata.bordeaux-metropole.fr/explore/dataset/met_package_r/information/) : 
 
