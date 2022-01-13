@@ -71,13 +71,14 @@ params:
   omit_categories: no
   page_view_conter: no
   reward: yes
-  sidebar_about_description: Analyse de données, dataviz, open source
+  sidebar_about_description: R, dataviz, life science
   sidebar_avatar: img/ymansiaux.jpg
   slogan: R, dataviz, life science
   social:
     email: yohann.mansiaux@gmail.com
     github: https://github.com/ymansiaux
     linkedin: https://www.linkedin.com/in/yohann-mansiaux-1816aa20/
+    twitter: https://twitter.com/yotruiteur
     #rss: yes
     #stackoverflow: https://stackoverflow.com/users/yourstackoverflowid
     #wechat: your wechat qr code image
