@@ -1,6 +1,6 @@
 baseurl: /
 relativeurls: true
-title: Datalab Bordeaux Métropole
+title: Yohann Mansiaux
 theme: hugo-theme-cleanwhite
 languageCode: fr
 DefaultContentLanguage: fr
@@ -18,7 +18,7 @@ outputs:
     - RSS
     - Algolia
 params:
-  SEOTitle: Datalab
+  SEOTitle: Yohann Mansiaux
   about_me: yes
   addtional_menus:
    # - href: /top/books/
@@ -72,12 +72,12 @@ params:
   page_view_conter: no
   reward: yes
   sidebar_about_description: Analyse de données, dataviz, open source
-  sidebar_avatar: img/LogoDataLab.svg
-  slogan: Analyse de données
+  sidebar_avatar: img/ymansiaux.jpg
+  slogan: R, dataviz, life science
   social:
-    #email: youremail@gmail.com
-    github: https://gitlab.com/bordeaux-metropole-public
-    #linkedin: https://www.linkedin.com/in/yourlinkedinid
+    email: yohann.mansiaux@gmail.com
+    github: https://github.com/ymansiaux
+    linkedin: https://www.linkedin.com/in/yohann-mansiaux-1816aa20/
     #rss: yes
     #stackoverflow: https://stackoverflow.com/users/yourstackoverflowid
     #wechat: your wechat qr code image
