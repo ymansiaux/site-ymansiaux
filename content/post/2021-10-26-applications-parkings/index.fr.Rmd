@@ -4,7 +4,7 @@ subtitle: Analyse des parkings hors voirie
 author: Yohann Mansiaux
 description: "Observation des taux d'occupation des parkings"
 date: '2021-10-26'
-slug: zpps-applications-parkings
+slug: apps-applications-parkings
 image: "../img/apps/parking3.jpg"
 categories: ["Applications"]
 tags: ["mobilite"]
